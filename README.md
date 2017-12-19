@@ -1,12 +1,14 @@
 # improved_LSGAN
 
-# LSGAN
+Code for [On the Effectiveness of Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1712.06391) and [Least Squares Generative Adversarial Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Mao_Least_Squares_Generative_ICCV_2017_paper.html)
+
+Related project: [LSGAN](https://github.com/xudonmao/LSGAN)
+
 ### Prerequisites
 - Tensorflow
 - SciPy
 
-### Previous Project
-- [LSGAN](https://github.com/xudonmao/LSGAN)
+
 
 ### Cats
 The code of pre-process methods is from [this project](https://github.com/AlexiaJM/Deep-learning-with-cats).
