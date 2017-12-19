@@ -1,0 +1,15 @@
+tflib/inception_score.py
+tflib/cifar10.py
+tflib/save_images.py
+tflib/__init__.py
+tflib/small_imagenet.py
+tflib/mnist.py
+tflib/plot.py
+tflib/ops/conv1d.py
+tflib/ops/batchnorm.py
+tflib/ops/cond_batchnorm.py
+tflib/ops/deconv2d.py
+tflib/ops/__init__.py
+tflib/ops/layernorm.py
+tflib/ops/conv2d.py
+tflib/ops/linear.py
